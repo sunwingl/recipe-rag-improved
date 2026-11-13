@@ -1,0 +1,15 @@
+11.2
+安装python3.12.14
+导入github库
+安装miniconda，进入rag-learning环境，安装依赖
+看项目配置文件
+
+配置api rag-learning密钥（.env）：
+kimi：sk-ltvDwiupqoCGhrZZeVRoznUqajYO105vThsc2I2zmi2xTcQs
+glm：8634e126666c4a43a5e5b6b72db31258.CtJ2L30rWr4LIic0
+
+学习如何通过api，给大模型提问题、得到回答（day02_glm_tesy.py）
+
+
+11.3
+
